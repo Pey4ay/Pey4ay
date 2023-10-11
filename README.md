@@ -1,6 +1,6 @@
 Привет,![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)меня зовут Дмитрий👋👨‍💻
 =======================================================================================================================================
-<--!<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">-->
+<--!<img src="" alt="banner that says ">-->
 
 QA fullstack engineer
 
