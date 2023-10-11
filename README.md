@@ -11,20 +11,20 @@ QA fullstack engineer
 ### Technologies
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="36" height="36" alt="intellij" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="36" height="36" alt="Selenium" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="36" height="36" alt="postman" /></a>
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" width="36" height="36" alt="soapui" /></a>
-<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="36" height="36" alt="SQL" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="24" height="24" alt="Java" /></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png" width="24" height="24" alt="intellij" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="24" height="24" alt="Selenium" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="24" height="24" alt="postman" /></a>
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" width="24" height="24" alt="soapui" /></a>
+<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="24" height="24" alt="SQL" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="24" height="24" alt="Docker" /></a>
 </p>
 
 <p align="left">
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="36" height="36" alt="postman" /></a>
-<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" width="36" height="36" alt="soapui" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="24" height="24" alt="postman" /></a>
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" width="24" height="24" alt="soapui" /></a>
 </p>
 
 ### Socials
